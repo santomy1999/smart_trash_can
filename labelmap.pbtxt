@@ -1,0 +1,12 @@
+item {
+    id: 1
+    name: 'plastic_bag'
+}
+item {
+    id: 2
+    name: 'food_waste'
+}
+item {
+    id: 3
+    name: 'bottle'
+}
